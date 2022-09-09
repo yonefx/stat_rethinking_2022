@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=23936249
+
 <img src="title.gif" width="500">
 
 Statistical Rethinking (2022 Edition)
